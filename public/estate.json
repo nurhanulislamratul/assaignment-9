@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Executive Office Suites in Business Park",
+    "segment_name": "Office Building",
+    "description": "Luxurious office suites located within a prestigious business park. Designed for professionals seeking upscale workspace.",
+    "price": "$8500/month",
+    "status": "rent",
+    "area": "3200 sq ft",
+    "location": "Business Park Avenue",
+    "facilities": ["Private offices", "Meeting rooms", "Fitness center"],
+    "image": "/EstateImg/EstateImg1.jpg"
+  },
+  {
+    "id": 2,
+    "estate_title": "High-Tech Industrial Facility",
+    "segment_name": "Industrial Facility",
+    "description": "State-of-the-art industrial facility equipped with advanced technology for manufacturing and production purposes.",
+    "price": "$3500000",
+    "status": "sale",
+    "area": "50000 sq ft",
+    "location": "Industrial Zone",
+    "facilities": ["Heavy-duty machinery", "Assembly lines", "Quality control labs"],
+    "image": "/EstateImg/EstateImg2.jpg"
+  },
+  {
+    "id": 3,
+    "estate_title": "Chic Retail Space in Trendy Neighborhood",
+    "segment_name": "Retail Space",
+    "description": "Stylish retail space situated in a vibrant and trendy neighborhood. Perfect for boutique shops or specialty stores.",
+    "price": "$12000/month",
+    "status": "rent",
+    "area": "2000 sq ft",
+    "location": "Hipster Boulevard",
+    "facilities": ["Storefront display", "Changing rooms", "Storage area"],
+    "image": "/EstateImg/EstateImg3.jpg"
+  },
+  {
+    "id": 4,
+    "estate_title": "Spacious Warehouse with Office Complex",
+    "segment_name": "Warehouse",
+    "description": "Expansive warehouse with a modern office complex attached. Ideal for logistics companies or e-commerce fulfillment centers.",
+    "price": "$2200000",
+    "status": "sale",
+    "area": "30000 sq ft",
+    "location": "Industrial Hub",
+    "facilities": ["Loading docks", "Office suites", "Storage racks"],
+    "image": "/EstateImg/EstateImg4.jpg"
+  },
+  {
+    "id": 5,
+    "estate_title": "Fine Dining Restaurant with Outdoor Terrace",
+    "segment_name": "Restaurant",
+    "description": "Upscale restaurant offering fine dining experiences and a picturesque outdoor terrace for al fresco dining.",
+    "price": "$18000/month",
+    "status": "rent",
+    "area": "4500 sq ft",
+    "location": "Dining District",
+    "facilities": ["Dining area", "Bar lounge", "Outdoor terrace"],
+    "image": "/EstateImg/EstateImg5.jpg"
+  },
+  {
+    "id": 6,
+    "estate_title": "Multipurpose Event Space",
+    "segment_name": "Entertainment Venue",
+    "description": "Versatile event space suitable for weddings, corporate events, and concerts. Features customizable layouts and audiovisual equipment.",
+    "price": "$800/hour",
+    "status": "rent",
+    "area": "6000 sq ft",
+    "location": "Event Center Street",
+    "facilities": ["Ballroom", "Stage area", "Audiovisual equipment"],
+    "image": "/EstateImg/EstateImg6.jpg"
+  }
+]
